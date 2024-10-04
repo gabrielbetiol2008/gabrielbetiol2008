@@ -9,6 +9,14 @@
     <li> Cursando o Ensino Médio </li>
 </ul>
 
+<h1 align="left">Olá! Meu nome é Gabriel Betiol 👑</h1>
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gabrielbetiol2008/gabrielbetiol2008/output/snake.svg" alt="Snake animation" />
+
 
 
 <hr>
